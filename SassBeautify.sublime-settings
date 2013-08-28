@@ -1,6 +1,6 @@
 {
-  "indent": "t",
-  "dasherize": false,
-  "old": false,
-  "path": false
+	"indent": 4,
+	"dasherize": false,
+	"old": false,
+	"path": false
 }
