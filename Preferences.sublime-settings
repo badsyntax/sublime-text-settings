@@ -1,0 +1,29 @@
+{
+	"auto_indent": true,
+	"detect_indentation": true,
+	"draw_white_space": "selection",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"smart_indent": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
